@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on building secure email servers and troubleshooting them (my day job @ zixcorp.com)
+- 🔭 I’m currently working on finding a new job!
 - 🌱 I’m currently learning more Python, Go, and cloud stuff (Kubernetes, GCP, AWS, Azure), plus polishing my Perl and Bash shell scripting
 - 👯 I’m looking to collaborate on ... music? I play bass, guitar, and (some) drums.
 - 🤔 I’m looking for help with depression and anxiety... don't worry, I have a good therapist.
